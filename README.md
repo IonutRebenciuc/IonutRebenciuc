@@ -5,6 +5,8 @@ Green Energy Technology, etc.
  this technology can bring a surplus value to society.
 - 💞️ I’m looking to collaborate on my new project:
 Renewable Energy Network (REN) conceived as a network of Local Energy Communities.
+For the functioning of this project, it is necessary to create, on the blockchain, 
+an energy exchange where, by means of tokens, the green energy produced within the project can be traded.
 - 📫 How to reach me:
    email: smart88deals@gmail.com
           ionutrebenciuc@hotmail.com 
