@@ -13,7 +13,7 @@ Prin **ALION.IQ**, coordonez dezvoltarea unui ecosistem de proiecte AI intercone
 
 Nu urmăresc doar răspunsuri inteligente. Mă interesează **sisteme care pot cerceta, construi, testa și susține decizii**, cu intervenție umană acolo unde aceasta este necesară.
 
-## ALION.IQ — ecosistemul în dezvoltare
+## Ecosistemul ALION.IQ
 
 **Arhitectură, agenți și orchestrare**
 - **ALION.IQ CORE** — fundație pentru capabilități și servicii comune.
@@ -41,11 +41,9 @@ Nu urmăresc doar răspunsuri inteligente. Mă interesează **sisteme care pot c
 - **Arhitectură modulară.** Reutilizarea capabilităților și integrare între proiecte.
 - **Utilitate economică și socială.** Tehnologia trebuie să rezolve probleme concrete.
 
-## Stadiul proiectelor
+## Contact
 
-ALION.IQ este un ecosistem **în construcție**. Portofoliul include inițiative de cercetare, specificații, prototipuri și componente cu verificări locale. Menționarea unui proiect nu înseamnă că acesta este deja lansat, certificat sau disponibil în producție.
-
-Unele depozite GitHub sunt private pentru a proteja cercetarea, codul și datele de lucru.
+Pentru colaborări și propuneri profesionale: **[alioniq@duck.com](mailto:alioniq@duck.com)**
 
 ---
 
