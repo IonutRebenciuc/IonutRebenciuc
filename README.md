@@ -1,52 +1,56 @@
 # Ionuț Rebenciuc
 
-**Inițiator și coordonator al ecosistemului ALION.IQ**  
-*Strategie economică · Inteligență artificială · Sisteme multi-agent · Automatizare · Inovație aplicată*
+**Initiator & Lead of the ALION.IQ Ecosystem**  
+*Economic Strategy · Artificial Intelligence · Multi-Agent Systems · Automation · Applied Innovation*
 
-> **De la inteligență la impact.** Construim sisteme AI capabile să transforme ideile în rezultate verificabile.
+> **From Intelligence to Impact.** Turning ambitious ideas into AI systems built for measurable, verifiable results.
 
-## Despre mine
+## About Me
 
-Sunt preocupat de felul în care tehnologia, analiza economică și inițiativa antreprenorială pot genera valoare reală.
+My work sits at the intersection of economic strategy, business development, artificial intelligence, and autonomous systems engineering.
 
-Prin **ALION.IQ**, coordonez dezvoltarea unui ecosistem de proiecte AI interconectate, în care agenții specializați, motoarele software și mecanismele de verificare lucrează pe baza unor responsabilități clare.
+Through **ALION.IQ**, I coordinate an interconnected technology ecosystem bringing together specialized AI agents, software engines, research capabilities, and assurance mechanisms.
 
-Nu urmăresc doar răspunsuri inteligente. Mă interesează **sisteme care pot cerceta, construi, testa și susține decizii**, cu intervenție umană acolo unde aceasta este necesară.
+My focus goes beyond generating intelligent answers. I am interested in **systems that can research, build, test, collaborate, and support decisions**—with clear accountability and human oversight where it matters.
 
-## Ecosistemul ALION.IQ
+## The ALION.IQ Ecosystem
 
-**Arhitectură, agenți și orchestrare**
-- **ALION.IQ CORE** — fundație pentru capabilități și servicii comune.
-- **ALION.IQ Autonomous Workflow Engine** — orchestrarea fluxurilor de lucru.
-- **ALION.IQ HUNTER & SOPHIA** — cercetare, analiză și asistență inteligentă.
+### AI Architecture, Agents & Orchestration
 
-**Transformarea afacerilor și economia agentică**
-- **ALION.IQ ARAE** — cercetare comercială și automatizarea proceselor de dezvoltare a veniturilor.
-- **ALION.IQ AATE** — analiza și transformarea proceselor prin automatizare.
-- **ALION.IQ AUDITOR** — verificarea calității, securității și fiabilității sistemelor AI.
+- **ALION.IQ CORE** — Shared architecture and reusable capabilities across the ecosystem.
+- **ALION.IQ Autonomous Workflow Engine** — Workflow orchestration and intelligent process automation.
+- **ALION.IQ HUNTER & SOPHIA** — AI-assisted research, analysis, and strategic intelligence.
 
-**Educație și dezvoltare umană**
-- **ALION.IQ Academy** — educație practică, laboratoare și proiecte cu rezultate demonstrabile.
-- **ALION.IQ Buddy** — coleg virtual și mentor personal pentru studenții Academiei.
+### Business Transformation & the Agentic Economy
 
-**Cercetare aplicată**
-- **Doctor ALION.IQ** — structurarea și compararea cunoștințelor medicale pe baza surselor și a dovezilor.
-- **ALION.IQ CF Trading** — cercetare în analiză cantitativă, sisteme algoritmice și managementul riscului.
+- **ALION.IQ ARAE** — Revenue opportunity discovery, customer acquisition intelligence, and sales process automation.
+- **ALION.IQ AATE** — Business process analysis and AI-driven automation transformation.
+- **ALION.IQ AUDITOR** — Testing, security, reliability, and quality assurance for AI systems.
 
-## Principiile după care construim
+### Education & Human Development
 
-- **Rezultate verificabile, nu promisiuni.** Teste, dovezi și criterii clare de acceptare.
-- **Autonomie responsabilă.** Agenți AI cu limite de autoritate și control uman.
-- **Securitate și confidențialitate prin proiectare.**
-- **Arhitectură modulară.** Reutilizarea capabilităților și integrare între proiecte.
-- **Utilitate economică și socială.** Tehnologia trebuie să rezolve probleme concrete.
+- **ALION.IQ Academy** — Practical technology education through labs, real-world projects, and demonstrable skills.
+- **ALION.IQ Buddy** — An AI student companion, academic peer, and personal mentor.
+
+### Applied Research & Financial Technology
+
+- **Doctor ALION.IQ** — Structured exploration and comparison of medical knowledge, sources, and evidence.
+- **ALION.IQ CF Trading** — Research into quantitative analysis, algorithmic trading systems, and risk management.
+
+## Engineering Principles
+
+- **Evidence over claims.** Reproducible tests, traceable artifacts, and clear acceptance criteria.
+- **Responsible autonomy.** Explicit boundaries, accountable AI agents, and human oversight.
+- **Security and privacy by design.**
+- **Modular architecture.** Reusable capabilities and interoperable components.
+- **Real-world value.** Technology should address concrete economic and societal challenges.
 
 ## Contact
 
-Pentru colaborări și propuneri profesionale: **[alioniq@duck.com](mailto:alioniq@duck.com)**
+For professional inquiries, partnerships, and collaboration opportunities: **[alioniq@duck.com](mailto:alioniq@duck.com)**
 
 ---
 
 ### ALION.IQ — From Intelligence to Impact
 
-*Tehnologie inteligentă. Execuție responsabilă. Valoare demonstrabilă.*
+*Intelligent technology. Responsible execution. Verifiable value.*
